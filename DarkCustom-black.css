@@ -1,0 +1,9 @@
+.nav-tile {
+    background-color: <?=$ThemeEngine['menubackground']?>;
+}
+.nav-item a, .nav-user a {
+    color: <?=$ThemeEngine['menutext']?>;
+}
+#header .text-alpha {
+    color: <?=$ThemeEngine['headertext']?>;
+}
